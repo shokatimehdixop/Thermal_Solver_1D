@@ -7,7 +7,7 @@ Heat from Radioactive Decay: Radioactive isotopes, such as uranium, thorium, and
 Latent Heat from Core Crystallization: As the liquid iron in the outer core solidifies onto the inner core, latent heat is released, further contributing to the Earth's thermal budget.
 Other Potential Sources: There may be additional mechanisms generating heat within the Earth, though these are less understood and require further investigation.
 # Publishing My Early Fortran Code: A Step into GitHub
-This title succinctly captures the essence of the paragraph, highlighting the author's decision to share their early Fortran code on GitHub as a significant milestone in their programming journey.
+I wrote this Fortran code when I was in the early stages of learning numerical modeling of thermal structures and Fortran programming in 2011. Now, I have decided to publish this code on GitHub as the beginning of my activity there.
 
 # One-Dimensional Heat Transfer Solver
 This project implements a Fortran program to solve the one-dimensional heat transfer equation using a finite difference method and the Tri-Diagonal Matrix Algorithm (TDMA). The code is organized into clear subroutines for input handling, grid generation, conductivity calculation, coefficient setup, boundary conditions, solving the linear system, and output generation.
