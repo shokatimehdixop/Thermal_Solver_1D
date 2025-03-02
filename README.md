@@ -22,7 +22,7 @@ The code computes an effective conductivity using harmonic averages to better re
 #  Implicit Double Precision:
 Ensures numerical accuracy by using implicit double precision for all floating point operations.
 
-Technologies & Libraries
+# Technologies & Libraries
 #  Fortran:
 The program is written in Fortran, using the implicit typing feature and module inclusion via include 'par.f90'.
 
